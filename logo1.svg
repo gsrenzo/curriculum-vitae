@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#FF0000" id="svg_4"/>
+  <ellipse cx="194.5" cy="47.833333" fill="#000000" id="svg_8" rx="182" ry="37" stroke="#000000" stroke-width="5"/>
+  <text fill="#ff7f00" font-family="serif" font-size="24" id="svg_7" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.17212 0 0 2.91611 -392.877 -198.463)" x="184.070531" xml:space="preserve" y="92.791838">RMGS</text>
+ </g>
+</svg>
